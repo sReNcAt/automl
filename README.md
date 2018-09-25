@@ -1,2 +1,5 @@
-# automl
-Auto Machine Learning
+# Auto Machine Learning
+
+> autokeras_train.py
+>>used autokeras module
+>>Keras via backend Tensorflow
